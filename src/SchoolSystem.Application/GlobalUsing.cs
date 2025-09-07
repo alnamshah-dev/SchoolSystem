@@ -1,0 +1,10 @@
+﻿global using FluentValidation;
+global using Microsoft.EntityFrameworkCore;
+global using SchoolSystem.Application.Abstracts.CQRS;
+global using SchoolSystem.Application.Data;
+global using SchoolSystem.Application.Dtos;
+global using SchoolSystem.Domain.Core.Models;
+global using SchoolSystem.Application.Exceptions;
+global using SchoolSystem.Application.Extensions;
+global using SchoolSystem.Application.Abstracts.Paginations;
+global using SchoolSystem.Application.Abstracts.Exceptions;
